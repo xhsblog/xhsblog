@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![img](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1594359914330&di=cf8b6f81fe1356d5fea07f7e1dcf5b07&imgtype=0&src=http%3A%2F%2Fimg2.imgtn.bdimg.com%2Fit%2Fu%3D1462833467%2C3467912640%26fm%3D214%26gp%3D0.jpg)
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=xhsblog-xhsblog.xhsblog)
